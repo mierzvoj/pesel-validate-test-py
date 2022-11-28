@@ -1,6 +1,4 @@
-"""copyright (c) 2020 Beeflow Ltd.
 
-Author Rafal Przetakowski <rafal.p@beeflow.co.uk>"""
 from datetime import date
 
 from validator import validate_pesel
